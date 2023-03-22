@@ -1,3 +1,4 @@
+import Parent from "./Components/Parent";
 import PersonEvents from "./Components/PersonEvents";
 import { SaiClass } from "./Components/SaiClass";
 
@@ -6,7 +7,8 @@ function App() {
     <div className="App">
       <h2>hello World .. How are you ?</h2>
       {/* <SaiClass/> */}
-      <PersonEvents/>
+      {/* <PersonEvents/> */}
+      <Parent/>
     </div>
   );
 }
