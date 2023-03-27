@@ -1,14 +1,13 @@
 {
-  "users": [
-    {
-      "fname": "ravi",
-      "lname": "g",
-      "id": 2
-    },
-    {
-      "fname": "sai anish",
-      "lname": "c",
-      "id": 3
-    }
-  ]
+  "users": [{
+    "name": "asdasf",
+    "email": "saianish@gmail.com",
+    "password": "asdfasdfasd",
+    "phoneNumber": "34523452345",
+    "gender": "Male",
+    "language": "Telugu",
+    "zipCode": "24060",
+    "about": "sdfas",
+    "id" : 1
+  }]
 }
